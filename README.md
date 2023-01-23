@@ -1,4 +1,4 @@
-👋 Hello, my name is Austin. I primarily work with Java and Minecraft, however I also use JavaScript and Rust.
+👋 Hello, my name is Austin. I primarily work with Java and Minecraft, but I also use JavaScript and Rust.
 
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallow64&count_private=true&theme=radical)
 
