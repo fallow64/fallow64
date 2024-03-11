@@ -1,4 +1,4 @@
-👋 Hello, my name is Austin. I primarily work with Java and Minecraft, but I also use JavaScript and Rust.
+👋 Hello! My name is Austin. I primarily work with Rust and TypeScript, but do React, Svelte, and Java from time to time.
 
 Discord: `start.sh`
 
