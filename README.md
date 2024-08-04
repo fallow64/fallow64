@@ -1,6 +1,6 @@
-👋 Hello! My name is Austin. I primarily work with Rust and TypeScript, but do React, Svelte, and Java from time to time.
+👋 Hello! My name is Austin. My preferred languages are TypeScript, Java, and more recently Rust. Nice to meet you!
 
-Discord: `start.sh`
+Discord: `fallow640`
 
 <!---
 fallow64/fallow64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
