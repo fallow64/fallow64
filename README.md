@@ -1,6 +1,6 @@
 👋 Hello! My name is Austin.
 
-I'm a student at the University of Wisconsin-Madison, majoring in Computer science. Currently, I'm interning at the [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) as a student web developer.
+I'm a student at the University of Wisconsin-Madison, majoring in Computer Science. Currently, I'm interning at the [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) as a student web developer.
 
 Nice to meet you!
 
