@@ -1,6 +1,6 @@
-👋 Hello! My name is Austin.
+👋 Hello! I'm Austin. Welcome!
 
-I'm a student at the University of Wisconsin-Madison, majoring in Computer Science. Currently, I'm at the [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) as a Web Development Intern.
+I'm a CS student at the University of Wisconsin-Madison. Currently, I'm a Web Development Intern at the Center for High Throughput Computing.
 
 Nice to meet you!
 
