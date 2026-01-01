@@ -1,5 +1,5 @@
-👋 Hello, I'm Austin. Welcome!
+👋 Hello, I'm Austin.
 
-I'm a CS student at the University of Wisconsin-Madison. Currently, I'm interning at the Center for High Throughput Computing as a Web Developer.
+I'm a developer studying CS at UW-Madison. I'm currently interning as a Web Developer at the Center for High Throughput Computing, where I build and maintain web applications to support scientific research.
 
 Nice to meet you!
